@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://krishnayadav.dev"><img src="https://img.shields.io/badge/Portfolio-0f1722?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://krishna-portfolio-bay-nu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f1722?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://scholar.google.com/citations?user=y6-LtiIAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://www.linkedin.com/in/krishna-yadav-434324192/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:krishna.nitkkr1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
