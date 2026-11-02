@@ -1,7 +1,7 @@
 <h1 align="center">Krishna Yadav</h1>
 
 <p align="center">
-  <b>Founding AI Engineer</b> &nbsp;·&nbsp; Multi-agent systems, RAG, and federated learning
+  <b>Applied AI Engineer</b> &nbsp;·&nbsp; Multi-agent systems, RAG, and federated learning
 </p>
 
 <p align="center">
